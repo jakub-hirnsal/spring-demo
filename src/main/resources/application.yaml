@@ -1,0 +1,10 @@
+server:
+  servlet:
+    context-path: /my-app
+
+
+app:
+  name: ${MY_APP:defaultAppName}
+  myConfig:
+    make: gf§dkg
+    value: dfgfd
